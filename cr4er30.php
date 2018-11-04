@@ -2,7 +2,7 @@
 
 ini_set('error_reporting', 'E_ALL');
 
-$BotToken = "126421916:AAGvNptpXCJJvRgYBmQayE7JW-Qcl2Wa4t8"; #"126421916:AAGvNptpXCJJvRgYBmQayE7JW-Qcl2Wa4t8";
+$BotToken = "126421916:-Qcl2Wa4t8"; #"126421916:-Qcl2Wa4t8";
 $WebSite = "https://api.telegram.org/bot".$BotToken; //."/getUpdates";
 
 // #echo $WebSite;
